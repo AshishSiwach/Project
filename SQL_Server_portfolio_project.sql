@@ -1,5 +1,5 @@
 -- checking covid_deaths table
-select * from covid_deaths where continent is not null
+select * from covid_deaths 
 -- checking covid_vaccinations table
 select * from covid_vaccinations
 -- selecting the required data
